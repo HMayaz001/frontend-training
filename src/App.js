@@ -15,7 +15,7 @@ export default function App() {
     event.preventDefault();
   };
   return (
-    <div className="App">
+    <div className="App2">
       <form onSubmit={handleSubmit}>
         <label>
           Pick your favorite flavor:
